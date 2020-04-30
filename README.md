@@ -46,4 +46,4 @@ Os arquivos * *dataset coronavirus uberlandia.ods* * e * *acoes.ods* * são usad
 ## Contato
 Gostou do meu trabalho? Tem sugestões, críticas ou conselhos? Você pode me achar aqui:
 - Email: [patrickluizdearaujo@gmail.com](patrickluizdearaujo@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/patrick-luiz-de-ara%C3%BAjo-b91565131/)
+- [LinkedIn](https://www.linkedin.com/in/patrick-luiz-de-ara%C3%BAjo-b91565131/)
