@@ -40,7 +40,7 @@ O código inteiro das análises está em um notebook python único, chamado **py
 
 
 ## Extras
-Os arquivos * *dataset coronavirus uberlandia.ods* * e * *acoes.ods* * são usados por mim para revisão e inserção de novos dados. O arquivo * *timeline.png* * é usado para melhor visualização das notícias, visto que é uma imagem muito grande e pode ficar dificil de enxergar no código.
+Os arquivos *dataset coronavirus uberlandia.ods* e *acoes.ods* são usados por mim para revisão e inserção de novos dados. O arquivo *timeline.png* é usado para melhor visualização das notícias, visto que é uma imagem muito grande e pode ficar dificil de enxergar no código.
 
 
 ## Contato
