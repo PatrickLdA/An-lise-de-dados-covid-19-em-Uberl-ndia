@@ -1,5 +1,8 @@
 # Análise de dados covid-19 em Uberlândia
-Captura de dados e análise das métricas a respeito do avanço do Coronavirus na cidade de Uberlândia.
+Captura de dados e análise das métricas a respeito do avanço do Coronavirus na cidade de Uberlândia. Escrevi 3 artigos baseados nas análises que fiz aqui no LinkedIn:
+- [Uma análise matemática sobre o avanço do covid-19 em Uberlândia: estamos testando muitos suspeitos?](https://www.linkedin.com/pulse/uma-an%C3%A1lise-matem%C3%A1tica-sobre-o-avan%C3%A7o-do-covid-19-em-muitos/)
+- [Uma análise matemática sobre o avanço do covid-19 em Uberlândia: como estão os quadros clínicos dos pacientes?](https://www.linkedin.com/pulse/uma-an%C3%A1lise-matem%C3%A1tica-sobre-o-avan%C3%A7o-do-covid-19-em-como-de-ara%C3%BAjo/)
+- [Uma análise matemática sobre o avanço do covid-19 em Uberlândia: a quarentena realmente funciona?](https://www.linkedin.com/pulse/uma-an%C3%A1lise-matem%C3%A1tica-sobre-o-avan%C3%A7o-do-covid-19-em-de-ara%C3%BAjo/)
 
 
 ## Introdução
